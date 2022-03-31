@@ -1,0 +1,42 @@
+# ✨오늘의 포스팅
+- [Github 기초](https://ryungom.tistory.com/70)
+- [HTML LivingStandard | 각종 이미지들 ](https://ryungom.tistory.com/78)
+---
+# Github 알아보기
+-   [https://www.inflearn.com/course/30분-시즌4-깃허브](https://www.inflearn.com/course/30%EB%B6%84-%EC%8B%9C%EC%A6%8C4-%EA%B9%83%ED%97%88%EB%B8%8C)강의 괜찮음
+-   Github 시작해보기
+    -   수정하려는 레포지토리(외부저장소, Repository)에서 . 누르면 웹에서 **vscode**가 실행됌.
+    -   자동저장 안됌. 수정 후 좌측메뉴 위에서 3번째 누르고 커밋을 눌러야지 적용됌
+        -   즉 새로 파일을 만들바에는 이렇게 . 눌러서 vsc 들어가자
+    -   다른사람이 내 홈페이지 들어오려면 URL이 필요하고 index.html이 serving되는 상태여야함.
+    -   git의 main branch : master, github의 main branch : main
+    -   레포지토리 하나 선택 후 settings - pages - 브랜치 선택 - save 하면 홈페이지 완성.
+        -   레포지토리 바로 아래에 index.html이 존재하지 않으면 README.md파일이 index가 되어버림
+    -   커밋메세지는 **한국어로 쓰자**. 상관없음. 보기 편하게 커밋하자!
+    -   깃허브는 호스팅 서비스임. 깃을 이용할 수 있게끔 하는.
+    -   형상관리 툴로 SVN, CVS를 사용하고 있으면 힘들수 있음. Git이 최고임
+    -   크라우드 펀딩으로 오픈소스 만드는 분들도 있음.
+    -   커밋을 한다 : 버전을 만든다, 무대에 올린다
+    -   Git bash 랑 powershell 이랑 지원하는 단어가 다름. 깃은 깃으로만 사용.
+    -   외워야 하는 명령어는 다음과 같다 : git pull, gid add, git commit, git push
+    -   GUI 보다 CLI를 쓰는 이유는 호환성과 에러를 잘 잡기 위해서. 결국 두가지를 다 다룰줄 알면 됌
+    -   깃 메세지는 반드시 써줘야 함. 비행기, 스테이지의 비유를 잘 기억해두기.
+    -   전체 페이지 스크린샷 캡쳐 : 개발자도구에서 ctrl shift p 명령어 들어가서 screen shot 혹은 full size screen shot 이용
+    -   프로젝트를 많이 해보는것이 중요하다
+    -   ignore : 깃 올릴때 불필요한파일 제거해서 올리는방법. **예를들어 node 같은 파일이 1,000개 넘어가는 경우** 파일이 겁나 많으므로 제외하는 방법
+    -   클론할때 마지막에 . 누르면 해당 폴더안에 깃이 생성됌 (바로 여기! 라는 느낌)
+    -   상대,절대경로는 ‘나’기준임.
+        -   상대 경로는 해당 index.html 기준으로 폴더 위치
+        -   절대 경로는 가장 최상위 폴더로부터의 위치
+        -   어떤 경로를 쓰는지는 회사 프로젝트에 따라서 결정.
+        -   인프런의 경우 모놀리식 아키텍쳐. 이미지 요청이 매우 많다보니 서버 하나로 처리하기엔 부하가 너무 걸림.
+    -   커밋 메세지는 *회사내규* 따르기.
+    -   충분히 익숙해지면 브랜치 알려주실것임.
+    -   현업시작할때 기초 흐름
+        -   bash, clone → pull → (수정 후) → add . (현재폴더 전부 추가) → commit과 -m 추가(ㅇㅇ수정) → push
+        -   레포지토리 만들때 README.md를 만들기때문에 init을 시작할 필요가 없다(그리고 README.md를 꼭 만들기도 해야함)
+        -   vscode로 할때는 커밋 푸쉬버튼 통합 아님. 소스코드제어 버튼 확인하기
+        -   [https://www.youtube.com/watch?v=hKhX87L2ydQ](https://www.youtube.com/watch?v=hKhX87L2ydQ) : Github 강의 매우 괜찮은 강의.
+    -   컴퓨터가 개발자 친화적일 필요는 없음. 대신 개발자는 이용자와 동료들에게 친절해야함 (코드 및 화면단 이야기ㅋ)
+    -   fork로 하면 그대로 레포지토리 가져올 수 있음
+---
