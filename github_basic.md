@@ -1,6 +1,5 @@
 # ✨오늘의 포스팅
 - [Github 기초](https://ryungom.tistory.com/70)
-- [HTML LivingStandard | 각종 이미지들 ](https://ryungom.tistory.com/78)
 ---
 # Github 알아보기
 -   [https://www.inflearn.com/course/30분-시즌4-깃허브](https://www.inflearn.com/course/30%EB%B6%84-%EC%8B%9C%EC%A6%8C4-%EA%B9%83%ED%97%88%EB%B8%8C)강의 괜찮음
