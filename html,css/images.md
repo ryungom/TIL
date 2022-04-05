@@ -1,5 +1,5 @@
 # ✨오늘의 포스팅
- - [HTML LivingStandard | 각종 이미지들 ](https://ryungom.tistory.com/78)
+- [HTML Living Standard | 각종 이미지들 ](https://ryungom.tistory.com/78)
  ---
  # Img 태그에 대해서 알아보자
 

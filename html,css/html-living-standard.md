@@ -1,6 +1,6 @@
 # ✨오늘의 포스팅
-- [HTML Living Standard 01 | 기본](https://ryungom.tistory.com/58)
-- [HTML Living Standard 02 | Grouping Contents](https://ryungom.tistory.com/69)
+- [HTML Living Standard | 기본](https://ryungom.tistory.com/58)
+- [HTML Living Standard | Grouping Contents](https://ryungom.tistory.com/69)
 
 ---
 # 오늘의 동기부여

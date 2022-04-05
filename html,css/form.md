@@ -1,5 +1,5 @@
 # ✨오늘의 포스팅
-- [HTML Living Standard 04 | Form](https://ryungom.tistory.com/79)
+- [HTML Living Standard | Form](https://ryungom.tistory.com/79)
 
 ---
 
