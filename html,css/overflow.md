@@ -1,24 +1,6 @@
 # ✨오늘의 포스팅
 - [overflow:hidden과 display:none 알아보기](https://ryungom.tistory.com/84)
 ---
-# 오늘의 Tip
-- 적당한 여가생활과 적당한 휴식이 필요
-- spa - 리액트 앱으로 만들수 있겠지만 바닐라js등으로 spa 개발이 실무에서는 없을듯. 다만 역ㄹ야을 보기 위해서. 바닐라js로 spa 만드는 시험을 보는곳은 5~6천 사이의 연봉.
-- IR 기법. display:none과 overflow:hidden 차이점을 알기
-    - html에서 img 태그로 사진을 올리는 방법과 css background 사용 이미지 차이는 백엔드 개발자와의 협업.
-    - css background 이미지는 주로 static한 이미지를 넣을때. 변치않는 이미지를 넣을 때.
-- 포트폴리오를 웹페이지로 만들어 서비스를 한다면 내 머릿속에 기억이 오래 나음. 그때 코드를 뭘 어떻게 사용했더라? overflow를 어느위치에 사용했더라?
-- font 속성 필요한것만 외우기
-    - line-height px로 쓰면 안됌.
-    - ***폰트랑 이미지 레이아웃*** 이 세가지가 정말 이쁘게 보이는데 중요함
-- CSS
-    - selector / property / value 이 세종류 이름은 꼭 외우자
-    - 인라인 css : html 내부에 작성.
-    - 외부던 인라인이던 회사 내규에 따라감.
-    - 스타일시트안에 스타일시트 넣기
-    - ./ : 같은폴더에서 찾아라
-    - 리셋 css는 회사에서 있는것을 사용함
-    - tbody가 비어있더라도 js에서 컨트롤.
 
 # overflow 알아보기
 - overflow
