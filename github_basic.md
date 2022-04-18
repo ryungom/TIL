@@ -8,6 +8,7 @@
     -   자동저장 안됌. 수정 후 좌측메뉴 위에서 3번째 누르고 커밋을 눌러야지 적용됌
         -   즉 새로 파일을 만들바에는 이렇게 . 눌러서 vsc 들어가자
     -   다른사람이 내 홈페이지 들어오려면 URL이 필요하고 index.html이 serving되는 상태여야함.
+        -  다만 레포지토리 안에 절대경로로 설정하면 index.html이 아니더라도 html 문서를 볼 수     
     -   git의 main branch : master, github의 main branch : main
     -   레포지토리 하나 선택 후 settings - pages - 브랜치 선택 - save 하면 홈페이지 완성.
         -   레포지토리 바로 아래에 index.html이 존재하지 않으면 README.md파일이 index가 되어버림
