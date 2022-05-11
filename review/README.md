@@ -1,3 +1,9 @@
+# [ 회고 repo 안내 ]
+- [현재 READMD.md 페이지] | 주간 회고록
+- [0408-tips.md](https://github.com/ryungom/TIL/blob/master/review/0408-tip.md) | 앞선 기수들의 특강
+- [guide.md](https://github.com/ryungom/TIL/blob/master/review/guide.md) | 회고 가이드 특강
+- [self](https://github.com/ryungom/TIL/tree/master/review/self) | 개인 일일 회고록
+
 # 🥨0508 | 6주차 회고
 ![코라카 6주차 단체사진](https://github.com/ryungom/TIL/blob/master/review/images/220508.jpg)
 ## 6주차 코라카팀 회고

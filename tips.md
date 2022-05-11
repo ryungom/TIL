@@ -1,6 +1,6 @@
 # ✨개발자를 준비하면서 힘내는 글 정리 링크
 - [오리엔테이션 및 이두희님 조언](https://github.com/ryungom/TIL/blob/master/OT.md)
-- [멋사 1기 선배 특강](https://github.com/ryungom/TIL/blob/master/retrospct/0408-tip.md)
+- [멋사 1기 선배 특강](https://github.com/ryungom/TIL/blob/master/review/0408-tip.md)
 ---
 # 🎈앞으로의 계획을 위한 조언
 
