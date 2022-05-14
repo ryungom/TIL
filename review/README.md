@@ -4,6 +4,12 @@
 - [guide.md](https://github.com/ryungom/TIL/blob/master/review/guide.md) | 회고 가이드 특강
 - [self](https://github.com/ryungom/TIL/tree/master/review/self) | 개인 일일 회고록
 
+# 🥨0514 | 7주차 회고
+![코라카 7주차 단체사진](https://github.com/ryungom/TIL/blob/master/review/images/220514.jpg)
+## 7주차 코라카님 회고
+- `첫 오프라인 회의!!!` 우리팀원들이 랜선 속 아바타나 ai가 아님을 깨달을 수 있었던 즐거운 시간이었다. 전국 방방곳곳에서 모이는 부트캠프인 이상 팀원들 사는곳이 정말 다양(서울,경기,대전,대구,광주)한지라 이 쪼매나고도 광활한 대한민국에서 서로의 중점이 되는곳은 대전과 세종이었고 대전에서 결국 만나게 되었다. 
+
+
 # 🥨0508 | 6주차 회고
 ![코라카 6주차 단체사진](https://github.com/ryungom/TIL/blob/master/review/images/220508.jpg)
 ## 6주차 코라카팀 회고
