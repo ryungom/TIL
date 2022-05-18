@@ -5,6 +5,34 @@
 > 🧩 | 부가적인 학습요소가 필요. 이해도 30% 이상 </br>
 > 🌌 | 줄게 내 Galaxy... 무료 우주 여행 중... 이해도 10% 미만 </br>
 
+
+## 220518 | 💫
+### 학습내용 및 깨달은 점
+- 오늘자 공부 정리
+    - [스코프](https://github.com/ryungom/TIL/blob/master/JavaScript/scope.md)
+    - [클래스문법](https://github.com/ryungom/TIL/blob/master/JavaScript/class.md)
+
+---
+
+
+## 220517 | 🌌
+### 학습내용 및 깨달은 점
+- 이벤트 캡쳐링, 버블링
+    - 이벤트는 캡쳐링이 무조건 먼저 시작됨. 버블링이 이후에 시작
+    - 김버그님 영상이 좋음
+    - 버블링은 내가 누른것 부터 상위로 버블버블~
+        - 그냥 그렇게 짜여진것임...그냥 암기하자
+- JS문법
+    - 노드리스트는 forEach 쓸 때 제약이 있음. 바벨이 있을때는 저절로 변경이 되지만 ie지원이 안됌
+    - forEach는 map과 상당히 유사하지만 forEach는 순회만 하고 map은 새로운 배열을 생성한다는 차이점이 있다.
+    - forEach를 노드리스트로 사용가능하고 ie사용을 가능하게하려면? 프로토타입이 중요.
+    - prototype: 객체가 공유하는 메소드를 저장하는 공간.
+    - 오늘자 공부 정리
+        - [객체지향, 생성자함수, 자바스크립트 상속](https://github.com/ryungom/TIL/blob/master/JavaScript/newFunction.md)
+        - [프로토타입](https://github.com/ryungom/TIL/blob/master/JavaScript/prototype.md)
+    - 어렵다...자스 너무 어려운데 이해만하면 봇물터지듯 새로운 개념들로 넘쳐흐를듯...
+---
+
 ## 220516 | 💫
 ### 학습내용 및 깨달은 점
 - visibility :hidden 은 영역을 차지하게 됌
