@@ -10,5 +10,5 @@
 - 내용
 ```
 ## 2022년
-- [지난기록(5월)](https://github.com/ryungom/TIL/blob/master/TRL/05/README.md)
-- [9월](https://github.com/ryungom/TIL/blob/master/TRL/09/README.md)
+- [지난기록(5월)](https://github.com/ryungom/TIL/blob/master/TRL/2022/05/README.md)
+- [9월](https://github.com/ryungom/TIL/blob/master/TRL/2022/09/README.md)
